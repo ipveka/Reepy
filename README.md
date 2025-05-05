@@ -1,4 +1,4 @@
-# Ree-Py
+# ReePy
 
 A Python package to fetch and visualize electricity data from the Spanish Electricity Network (Red Eléctrica de España) e·sios API.
 
